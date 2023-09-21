@@ -1,0 +1,9 @@
+uvicorn
+fastapi
+openai
+tiktoken
+python-multipart
+scikit-learn
+promptlayer
+manim
+latex
